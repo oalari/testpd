@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/client-combined-3.5.3-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/jcommander-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/TimeEntryPD/TimeEntry/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
